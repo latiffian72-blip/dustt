@@ -1,8 +1,8 @@
-# Smart Dust Suppression and Air Quality Monitoring System
+# sistem filtrasi kualitas udara dari hasil pembakaran sampah
 
 ## 📖 Deskripsi
 
-Smart Dust Suppression and Air Quality Monitoring System adalah sistem pemantauan kualitas udara dan pengendalian debu berbasis ESP32 yang dirancang untuk mengurangi konsentrasi debu di lingkungan menggunakan sistem penyemprotan air otomatis.
+sistem filtrasi kualitas udara dari hasil pembakaran sampah (Smart Dust Suppression and Air Quality Monitoring System) adalah sistem pemantauan kualitas udara dan pengendalian debu berbasis ESP32 yang dirancang untuk mengurangi konsentrasi debu di lingkungan menggunakan sistem penyemprotan air otomatis.
 
 Sistem memonitor tingkat debu, kualitas udara, konsentrasi gas hasil pembakaran, serta kondisi air pada bak penampungan. Data ditampilkan secara lokal melalui LCD I2C dan dapat dipantau maupun dikendalikan melalui antarmuka web yang terhubung ke database PostgreSQL.
 
