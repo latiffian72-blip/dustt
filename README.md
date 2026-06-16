@@ -1,4 +1,4 @@
-# sistem filtrasi kualitas udara dari hasil pembakaran sampah
+# Sistem Filtrasi Kualitas Udara Dari Hasil Pembakaran Sampah
 
 ## 📖 Deskripsi
 
